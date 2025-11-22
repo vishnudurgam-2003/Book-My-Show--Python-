@@ -41,4 +41,15 @@ All modules are connected using a centralized database connection file.
 ### 1️⃣ Clone the Repository
 
 ```bash
-https://github.com/krish-analytics/python-bookmyshow-project
+https://github.com/vishnudurgam-2003/Book-My-Show--Python-
+
+
+
+
+
+
+
+
+
+
+
